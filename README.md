@@ -10,7 +10,7 @@
 
 2.計數器CDN
 ```
-<srcipt src="https://qq860831.github.io/counter/counter.js></script>
+<script src="https://qq860831.github.io/counter/counter.js"></script>
 ```
 
 3.參數說明
