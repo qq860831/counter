@@ -5,7 +5,7 @@
 
 1.先CDN jQuery
 ```
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 ```
 
 2.計數器CDN
