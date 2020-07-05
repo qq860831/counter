@@ -4,9 +4,12 @@
 顯示網頁:https://qq860831.github.io/counter/
 
 1.先CDN jQuery
+```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+```
 
 2.計數器CDN
-https://github.com/qq860831/counter/blob/master/counter.js
+<srcipt src="https://qq860831.github.io/counter/counter.js></script>
 
 3.參數說明
 
