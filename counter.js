@@ -8,7 +8,7 @@ $(document).ready(function () {
             // var 變數=資料
             var offset = $(this).offset();  //取得元素位移資料  
             var top = offset.top;    //上方
-            var left = offset.left;  //左方
+        
 
             // console.log("元素上方:"+top);
 
